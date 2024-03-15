@@ -14,7 +14,7 @@ class abc{
 		int main()
 	{
 		abc a,b;
-		a.x=10;
+		a.x=30;
 		b.y=20;
 		a.show();
 		b.show();
